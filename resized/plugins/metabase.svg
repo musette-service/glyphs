@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="icons"
+   x="0px"
+   y="0px"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs6" />
+
+<g
+   id="g1917"
+   transform="matrix(0.03125,0,0,0.03125,-0.1378163,0.07369625)"><circle
+     style="display:inline;fill:none;stroke:#020000;stroke-width:56.8594;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     id="path1198"
+     cx="512"
+     cy="512"
+     r="331.46997" /><circle
+     style="display:inline;fill:none;stroke:#020000;stroke-width:48.6408;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     id="path1198-5"
+     cx="512"
+     cy="512"
+     r="77.917938" /><path
+     id="stop"
+     d="m 872,112 c 23.12852,0 42.05185,18.92334 42.05185,42.05186 v 711.17976 c 0,23.12852 -18.92333,42.05185 -42.05185,42.05185 H 160.82024 c -23.12852,0 -42.05186,-18.92333 -42.05186,-42.05185 V 154.05186 C 118.76838,130.92334 137.69172,112 160.82024,112 H 872 m 0,-80.59938 H 160.82024 c -67.629892,0 -122.651237,55.021345 -122.651237,122.65124 v 711.17976 c 0,67.62989 55.021345,122.6512 122.651237,122.6512 H 872 c 67.62989,0 122.65124,-55.02131 122.65124,-122.6512 V 154.05186 C 994.65124,86.420797 939.62989,31.40062 872,31.40062 Z"
+     style="stroke-width:1.16811" /></g></svg>

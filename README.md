@@ -83,3 +83,10 @@ Source repository for the musette-glyphs.ttf file
 | :exclamation: | file-asx      | E052     |  |
 | :exclamation: | file-xspf     | E053     |  |
 | :exclamation: | file-wpl      | E054     |  |
+
+### Plugins
+**Codepoint Range**: E060 - E06F
+
+|        | Name          | Codepont | Image |
+|--------|---------------|----------|-------|
+|        | metabase      | E060     | ![](resized/plugins/metabase.svg) |
